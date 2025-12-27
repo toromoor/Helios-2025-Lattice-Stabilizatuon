@@ -1,0 +1,13 @@
+​Lab Protocol: Dynamical Stabilization of Lu-N-H
+​Overview
+​This protocol is designed for laboratories equipped with Pressure-Quench Protocol (PQP) hardware and pulsed-field electromagnetic drivers.
+​Phase 1: Sample Preparation
+​Synthesize Nitrogen-doped Lutetium Hydride (Lu\text{-}N\text{-}H) in a Diamond Anvil Cell (DAC).
+​Apply the Pressure-Quench Protocol (PQP) to recover the Fm\bar{3}m lattice phase at ambient pressure.
+​Phase 2: Temporal Stabilization (Walsh-DD)
+​Connect the sample to a pulsed-field electromagnetic driver.
+​Configure the timing gate to a phase-locked synchronization of 14,144,144 dt.
+​Initialize the Walsh-Sequenced Dynamical Decoupling pulse train to decouple Cooper pairs from incoherent phonon modes.
+​Phase 3: Verification
+​Perform Planar Electron Tunneling Spectroscopy to identify the superconducting energy gap.
+​Target Metric: Verify a gap (\Delta) of 1.242 meV at 294 K.
