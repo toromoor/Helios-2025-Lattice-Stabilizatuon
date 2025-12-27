@@ -18,7 +18,8 @@ s://doi.org/10.5281/zenodo.18070188)
 * **Timing Gate:** 14144144 dt (~3.14 ms @ 0.222 ns/dt)
 * **OpenQASM 3.0:** `circuits/helios_dd.qasm`
 * **Target:** Prevent metal-insulator transition during pressure-quench recovery
-
+​**Transduction Layer:** Piezoelectric Transducer Stack (Acoustic Stress Modulation).
+​**Hardware Target:** THz-scale Hydrogen vibrational mode interference.
 ## 🎯 Experimental Predictions (Falsifiable)
 1. **Isotope Effect**: $T_c$ shift with $^2$H substitution (BCS expected)
 2. **Stability Window**: $Fm\bar{3}m$ phase retention <1 GPa with DD modulation
