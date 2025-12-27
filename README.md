@@ -2,7 +2,6 @@ s://doi.org/10.5281/zenodo.18070188)
 
 # Helios-2025: Lattice Stabilization Toolkit (Mg₂IrH₆ / Lu-N-H)
 **DOI: 10.5281/zenodo.18070188** | **MIT License** | Published 2025-12-27
-
 ## 🔬 Core Conjecture (Testable)
 **Ambient-pressure superconductivity in Fm-3m hydrides via strong electron-phonon coupling:**
 
@@ -37,3 +36,10 @@ s://doi.org/10.5281/zenodo.18070188)
 ## Outreach & Validation
 - **TcSUH (Dr. Liangzi Deng)**: PQP synthesis contacted
 - **Renmin U HTSC-2025**: AI benchmark submitted
+## 30 day Validation plan 
+Appendix B: Proposed Experimental Timeline (30 Days)
+​Week 1 (Baseline): Standard HPHT synthesis of Mg_2IrH_6 at 85 GPa to confirm the Fm\bar{3}m phase via X-ray diffraction (XRD).
+​Week 2 (Decompression Control): Standard linear decompression to identify the precise pressure (expected <3.2 GPa) where the lattice collapses.
+​Week 3 (Calibration): Integration of the piezoelectric stack and verification of the 14,144,144 waveform fidelity through the diamond anvils.
+​Week 4 (The Helios Test): Re-synthesis followed by Walsh-DD activation at 5 GPa. XRD monitoring during decompression to ambient pressure to verify lattice retention.
+​Week 5 (Falsification): Conduct an "Inverted Sequence" run. If the lattice collapses despite the pulses, it proves the success was due to the Walsh timing, not just generic vibration.
